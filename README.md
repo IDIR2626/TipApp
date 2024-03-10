@@ -23,7 +23,7 @@ Include screenshots here to visually demonstrate the app's functionality.
 
 To get started with the Tip Calculator App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/tip-calculator-app.git`
+1. Clone the repository: `[git clone https://github.com/yourusername/tip-calculator-app.git](https://github.com/IDIR2626/TipApp.git)`
 2. Open the project in Android Studio.
 3. Build and run the project on your preferred device or emulator.
 
