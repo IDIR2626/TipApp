@@ -1,8 +1,8 @@
 # Tip Calculator App
 
-![GitHub](https://img.shields.io/github/license/IDIR2626/tip-calculator-app)
-![GitHub repo size](https://img.shields.io/github/repo-size/IDIR2626/tip-calculator-app)
-![GitHub issues](https://img.shields.io/github/issues/IDIR2626/tip-calculator-app)
+![GitHub](https://img.shields.io/github/license/IDIR2626/TipApp)
+![GitHub repo size](https://img.shields.io/github/repo-size/IDIR2626/TipApp)
+![GitHub issues](https://img.shields.io/github/issues/IDIR2626/TipApp)
 
 ## Overview
 
