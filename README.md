@@ -15,10 +15,6 @@ The Tip Calculator App is a simple yet effective tool designed to help users cal
 - Instantly view total amount per person
 - Clean and intuitive UI design
 
-## Screenshots
-
-Include screenshots here to visually demonstrate the app's functionality.
-
 ## Getting Started
 
 To get started with the Tip Calculator App, follow these steps:
